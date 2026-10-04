@@ -1,0 +1,14 @@
+{
+  "name": "nonom-codeboard",
+  "owner": {
+    "name": "Nonom Friedman",
+    "email": "hi@nonom.xyz"
+  },
+  "plugins": [
+    {
+      "name": "codeboard",
+      "source": "./plugins/codeboard",
+      "version": "0.2.0"
+    }
+  ]
+}
