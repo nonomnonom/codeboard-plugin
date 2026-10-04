@@ -1,0 +1,2 @@
+# Keep bundled reference bytes identical to bundle.json sourceHashes.
+plugins/codeboard/skills/codeboard/references/engine/** -text
