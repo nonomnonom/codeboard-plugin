@@ -2,10 +2,11 @@
   "engine": "codeboard-studio",
   "engineVersion": "0.2.1",
   "source": "https://github.com/nonomnonom/codeboard",
+  "hashEncoding": "UTF-8 with LF line endings",
   "contents": "Canonical text documentation, quickstart, and standalone character example. Showcase images/videos and external installers are online links, not runtime dependencies.",
   "sourceHashes": {
     "LICENSE": "853024c7fcd95c5759499b8e388c6eacdf9d1a54a63f2b1214d2a986d483f204",
-    "NOTICE": "a80fa18c0815962b903c67b1d1aab97114e27edd038a7f4f3c4a0318da7b5fb4",
+    "NOTICE": "039df07eac628942ac2af427a2889482919c1b935cc316f3473bff0cd69a45f4",
     "docs/agent-plugin.md": "8182ac88ac6fb36ee4b8224afb61ebaf8a5eacfb537652a479d41fc36e362fa1",
     "docs/agent-workflow.md": "b08e15aeb8129b461008209d39be718c8ea0b2cb28b993fbbc0df2e1f424b5bd",
     "docs/animation.md": "01b48be0af78c91f7fbec88764ec5637a3539d86d2fea26ad2f384fd78f8e0d6",
@@ -47,7 +48,7 @@
   },
   "bundledHashes": {
     "LICENSE": "853024c7fcd95c5759499b8e388c6eacdf9d1a54a63f2b1214d2a986d483f204",
-    "NOTICE": "a80fa18c0815962b903c67b1d1aab97114e27edd038a7f4f3c4a0318da7b5fb4",
+    "NOTICE": "039df07eac628942ac2af427a2889482919c1b935cc316f3473bff0cd69a45f4",
     "docs/agent-plugin.md": "8182ac88ac6fb36ee4b8224afb61ebaf8a5eacfb537652a479d41fc36e362fa1",
     "docs/agent-workflow.md": "b08e15aeb8129b461008209d39be718c8ea0b2cb28b993fbbc0df2e1f424b5bd",
     "docs/animation.md": "550acc8d0c210924de42ad6b8dffd5da87ff2ce15e36e2b2df804dc7c814ba48",
